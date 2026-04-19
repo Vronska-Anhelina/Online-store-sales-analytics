@@ -8,7 +8,7 @@ This project focuses on exploring and analyzing sales data from an online store.
 
 ## Technologies
 
-- **Python 3**
+- **Python**
 - **Pandas** - data processing and analysis
 - **Matplotlib and Seaborn** - data visualization
 - **NumPy** - numerical computations
