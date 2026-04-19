@@ -9,10 +9,11 @@ This project focuses on exploring and analyzing sales data from an online store.
 ## Technologies
 
 - **Python 3**
-- **Pandas** — data processing and analysis
-- **Matplotlib / Seaborn** — data visualization
-- **NumPy** — numerical computations
-- **Google Colab** — execution environment
+- **Pandas** - data processing and analysis
+- **Matplotlib and Seaborn** - data visualization
+- **NumPy** - numerical computations
+- **Google Colab** - execution environment
+- **SciPy** - statistical testing
 
 ## Analysis Overview
 
@@ -21,4 +22,6 @@ This project focuses on exploring and analyzing sales data from an online store.
 - Monthly sales dynamics
 - Order geography
 - Average order value and customer behavior
+- Correlation analysis between key variables
+- Statistical significance testing (p-value, hypothesis testing)
   
